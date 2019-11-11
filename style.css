@@ -1,0 +1,92 @@
+
+.navbar {
+    background-color:  rgb(255, 165, 86);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+.jumbotron-cards1 {
+    background-image: linear-gradient(#ee7512d8, rgba(125, 233, 106, 0.445)),
+    url("https://www.discoverlosangeles.com/sites/default/files/styles/hero/public/images/2019-01/lower-patio.jpg?itok=KGYP49fO");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 150px;
+    color: white;
+}
+
+.jumbotron-cards2 {
+    background-image: linear-gradient(#ee7512d8, rgba(241, 241, 241, 0.445)),
+    url("https://images.unsplash.com/photo-1517456793572-1d8efd6dc135?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 150px;
+    color: white;
+}
+
+.jumbotron-cards3 {
+    background-image: linear-gradient(#ee7512d8, rgba(125, 233, 106, 0.445)),
+    url("https://www.budgetbytes.com/wp-content/uploads/2018/01/Sheet-Pan-BBQ-Meatloaf-Dinner-plate.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 150px;
+    color: white;
+}
+.jumbotron_1 {
+background-image: linear-gradient(rgba(253, 127, 0, 0.972), #7fe05280),
+url("https://d1qmdf3vop2l07.cloudfront.net/tricky-soybean.cloudvent.net/compressed/_min_/500d04e6c8710e6a1257f3f9e6343dab.jpg");
+color: white;
+font-family: 'Miriam Libre', sans-serif;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.container1 {
+    border: 12px solid #da690ed8;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 100px;
+    height: 250px;
+    width: 500px;
+    left:53%;
+    position: relative;
+    
+    }
+    
+
+.text-sign {
+    color:white;
+    font-weight: bold;
+    
+
+}
+
+.card-sign {
+    background:transparent;
+    
+}
+
+.SignUpForm{
+    text-align: center;
+    padding:150px
+}
+.submitbutton {
+    text-align: center;
+    padding:550px;
+
+}
+
+.page-footer {
+    background-color: rgb(255, 165, 86);
+}
+
+.Container3 {
+    text-align: center;
+    background-color:
+}
